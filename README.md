@@ -1,5 +1,5 @@
 
-<h2 align="center">Hola 👋, estas son las tecnologías que utilizo</h2>
+<h2 align="center">Tecnologías que utilizo</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
