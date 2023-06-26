@@ -1,5 +1,3 @@
-# gabrielfernandorey.github.io
-Portfolio
 
 <h1 align="center">Hola 👋, me llamo Gabriel Fernando Rey</h1>
 
