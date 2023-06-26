@@ -5,11 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reproducir video en pantalla completa</title>
     <style>
-        video {
+        #video {
             position: absolute;
             height: 100%;
             width: 100%;
             object-fit: cover;
+        }
+        
+        #text-overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
     </style>
 ></head>
@@ -17,6 +29,9 @@
     <div id="video-container">
         <video id="video" src="MLdp06.mp4" autoplay loop muted playsinline></video>
     </div>
+    <div id="text-overlay">
+        <a href="portfolio.html"> Portfolio </a>
+      </div>
 </body>
 
 
