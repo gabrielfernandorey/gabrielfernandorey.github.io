@@ -4,7 +4,7 @@
 
 ### Machine Learning 
 
-[Estimación de atraso de vuelos](/projects/ml01)
+[Estimación de atraso de vuelos](/projects/ML01/ml01.md)
 <img src="images/tablero.png?raw=true"/>
 
 ---
