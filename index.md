@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning 
 
-[Project 1 Title](/sample_page)
+[Estimación de atraso de vuelos](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
