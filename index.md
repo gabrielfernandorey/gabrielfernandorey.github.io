@@ -4,22 +4,12 @@
 
 ### Machine Learning 
 
-[Estimación de atraso de vuelos](/projects/ML01/ml01.md)
+- [Estimación de atraso de vuelos](/projects/ML01/ml01.md)
 <img src="images/ML01img.png?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Deep Learning
 
-- [Project 1 Title](http://example.com/)
+- [Clasificación de audio](/projects/DL01/Dl01.md)
 - [Project 2 Title](http://example.com/)
 
 ---
