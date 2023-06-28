@@ -9,7 +9,7 @@
 
 ### Deep Learning
 
-- [Clasificación de audio](/projects/DL01/Dl01.md)
+- [Clasificación de audio](/projects/DL01/dl01.md)
 <img src="images/DL01img.png?raw=true"/>
 
 
