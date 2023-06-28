@@ -20,6 +20,5 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="[https://www.w3.org/2000/svg](https://miro.medium.com/v2/resize:fit:1358/0*czQF8OlVUMggKBdf.png)https://miro.medium.com/v2/resize:fit:1358/0*czQF8OlVUMggKBdf.png" alt="airflow" width="40" height="40"/> </a>
 </p>
 
