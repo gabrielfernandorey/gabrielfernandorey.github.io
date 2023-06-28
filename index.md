@@ -10,7 +10,8 @@
 ### Deep Learning
 
 - [Clasificación de audio](/projects/DL01/Dl01.md)
-- [Project 2 Title](http://example.com/)
+<img src="images/DL01img.png?raw=true"/>
+
 
 ---
 
