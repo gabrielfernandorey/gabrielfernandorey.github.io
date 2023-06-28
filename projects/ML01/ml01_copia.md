@@ -1,0 +1,30 @@
+## Flight Delay - Estimación de atraso de vuelos
+**Descripción:** Este proyecto se basa en predecir la probabilidad de atraso o demora de vuelos mayor a 15 minutos desde su horario de partida para los despegues con origen en el aeropuerto de Santiago de Chile, para lo cual se cuenta con datos públicos y reales del año 2017. Este trabajo no se enfoca en entender las causas de los atrasos sino en la estimación de ocurrencia de atrasos en función de los datos disponibles. 
+
+### 1. Suggest hypotheses about the causes of observed phenomena
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 2. Assess assumptions on which statistical inference will be based
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 3. Support the selection of appropriate statistical tools and techniques
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Provide a basis for further data collection through surveys or experiments
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
