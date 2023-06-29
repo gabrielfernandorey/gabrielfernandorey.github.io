@@ -22,10 +22,9 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:AirflowLogo.png#/media/File:AirflowLogo.png" alt="airflow" width="40" height="40"/> </a>
+<a href="https://www.airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="airflow" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google" width="40" height="40"/> </a>
 </p>
-
 
 
 
